@@ -1,0 +1,10 @@
+__pycache__/
+.env
+data/raw/*
+data/processed/*
+*.pyc
+*.pyd
+*.pyo
+*.ipynb_checkpoints
+spark_env/*
+.github/*
